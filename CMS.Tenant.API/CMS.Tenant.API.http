@@ -1,6 +1,0 @@
-@CMS.Tenant.API_HostAddress = http://localhost:5092
-
-GET {{CMS.Tenant.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
